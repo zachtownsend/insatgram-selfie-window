@@ -15,6 +15,7 @@
     "serve-favicon": "~2.3.0"
   },
   "devDependencies": {
-    "instagram-api": "^1.0.3"
+    "instagram-api": "^1.0.3",
+    "instagram-node": "^0.5.8"
   }
 }
