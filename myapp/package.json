@@ -16,6 +16,7 @@
   },
   "devDependencies": {
     "instagram-api": "^1.0.3",
-    "instagram-node": "^0.5.8"
+    "instagram-node": "^0.5.8",
+    "util": "^0.10.3"
   }
 }
